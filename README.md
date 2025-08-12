@@ -31,7 +31,7 @@ NDA соблюдается, документы не содержат конфи�
 📊 **Схемы и диаграммы**
 - [UML Sequence / PlantUML]()
 - [C4-модель архитектуры / draw.io](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/C4-(draw.io))
-- [C4-модель архитектуры / structurizr]()
+- [C4-модель архитектуры / structurizr](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/C4-(structurizr))
 
 🗄 **База данных и SQL**
 - [ER-диаграмма / dbdiagram.io]()
