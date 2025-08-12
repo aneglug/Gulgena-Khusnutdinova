@@ -29,13 +29,13 @@ NDA соблюдается, документы не содержат конфи�
 - [Postman Workspace](https://www.postman.com/gulgena-6389764/workspace/gulgena-s-workspace-ga)
 
 📊 **Схемы и диаграммы**
-- [UML Sequence / PlantUML]()
+- [UML Sequence / PlantUML]() -
 - [C4-модель архитектуры / draw.io](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/C4-(draw.io))
 - [C4-модель архитектуры / structurizr](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/C4-(structurizr))
 
 🗄 **База данных и SQL**
-- [ER-диаграмма / dbdiagram.io]()
-- [SQL-запросы к БД]()
+- [ER-диаграмма / dbdiagram.io](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/ER-(dbdiagram.io))
+- [SQL-запросы к БД]() -
 
 **Ключевые навыки:**  
 Системный анализ · UML · C4 · SQL · Интеграции · REST API · SOAP API · Agile · Jira · Conf
