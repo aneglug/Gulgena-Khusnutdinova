@@ -37,7 +37,7 @@ NDA соблюдается, документы не содержат конфи�
 
 🗄 **База данных и SQL**
 - [ER-диаграмма / dbdiagram.io](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/ER-(dbdiagram.io))
-- [SQL-запросы к БД]() -
+- [SQL-запросы к БД](https://github.com/aneglug/Gulgena-Khusnutdinova/blob/main/SQL%20TWM.sql)
 
 **Ключевые навыки:**  
 Системный анализ · UML · C4 · SQL · Интеграции · REST API · SOAP API · Agile · Jira · Conf
