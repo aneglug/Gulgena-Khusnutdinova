@@ -31,7 +31,7 @@ NDA соблюдается, документы не содержат конфи�
 - [Исследование API документации: ЮКасса, ВК, Яндекс.Расписания, DaData / Confluence](https://github.com/aneglug/Gulgena-Khusnutdinova/blob/main/2.%20Исследование%20API%20документации%20внешних%20систем.pdf)
 
 📊 **Схемы и диаграммы**
-- [UML Sequence / PlantUML]() -
+- [UML Sequence: Возврат платежа / PlantUML](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/UML-Sequence-(PlantUML))
 - [C4-модель архитектуры / draw.io](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/C4-(draw.io))
 - [C4-модель архитектуры / structurizr](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/C4-(structurizr))
 
