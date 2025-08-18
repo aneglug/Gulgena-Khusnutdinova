@@ -25,7 +25,7 @@ NDA соблюдается, документы не содержат конфи�
 
 🔗 **Интеграции и API**
 - [Задача на REST API: Возврат платежа в ЮКасса / Confluence](https://github.com/aneglug/Gulgena-Khusnutdinova/blob/main/7.1%20Возврат%20платежа.pdf)
-- [Задача на REST API: Поиск рейсов на транспорт в Яндекс.Расписания / Confluence]() -
+- [Задача на REST API: Поиск рейсов на транспорт в Яндекс.Расписания / Confluence](https://github.com/aneglug/Gulgena-Khusnutdinova/blob/main/7.2%20Поиск%20рейсов.pdf)
 - [Postman Workspace - исследование API внешних систем](https://www.postman.com/gulgena-6389764/workspace/gulgena-s-workspace-ga)
 - [Исследование API документации: ЮКасса, ВК, Яндекс.Расписания, DaData / Confluence](https://github.com/aneglug/Gulgena-Khusnutdinova/blob/main/2.%20Исследование%20API%20документации%20внешних%20систем.pdf)
 - [Swagger (OpenAPI) - спецификация TWM](https://app.swaggerhub.com/apis/test-eaf-2b7/DemoProjectTWM/1.0.0)
