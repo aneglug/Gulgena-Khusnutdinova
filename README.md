@@ -31,7 +31,7 @@ NDA соблюдается, документы не содержат конфи�
 - [C4-модель архитектуры / draw.io](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/C4-(draw.io))
 - [C4-модель архитектуры / structurizr](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/C4-(structurizr))
 
-🗄 **База данных и SQL**
+🗄️ **База данных и SQL**
 - [ER-диаграмма / dbdiagram.io](https://github.com/aneglug/Gulgena-Khusnutdinova/wiki/ER-(dbdiagram.io))
 - [SQL-запросы к БД](https://github.com/aneglug/Gulgena-Khusnutdinova/blob/main/SQL%20TWM.sql)
 
